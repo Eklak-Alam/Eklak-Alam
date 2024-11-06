@@ -2,7 +2,7 @@
 
 💻 About Me:
 
-Full-Stack Web Developer | JavaScript & Java Enthusiast
+ => Full-Stack Web Developer | JavaScript & Java Enthusiast
 Passionate about building modern, scalable, and robust web applications with a focus on both frontend and backend technologies.
 I enjoy continuous learning and tackling new challenges in web development.
 
