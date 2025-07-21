@@ -27,7 +27,7 @@
 📫 How to Reach Me:
 
  Email: eklakalam420@gmail.com
- Phone: +91 7070691178
+ Phone: +91 9473384492
  🔗 Let's Connect:
  Feel free to reach out for collaborations, discussions, or just to connect over web development!
 
