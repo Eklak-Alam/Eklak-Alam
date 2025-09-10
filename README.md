@@ -7,7 +7,7 @@
 
 # 👋 Hey, I'm **Eklak Alam**  
 
-🚀 **Web Developer | Backend Engineer | Freelancer**  
+🚀 **Web Developer |  Frontend Engineer | Backend Engineer | Freelancer**  
 💡 Passionate about building **scalable apps, APIs, and AI/LLM-powered solutions**  
 
 ---
