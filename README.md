@@ -111,10 +111,10 @@
 
 ## 🚀 Featured Projects  
 
-[![](https://img.shields.io/badge/-📝%20Employee%20Management%20System-000)](https://github.com/ero/employee-management)  
-[![](https://img.shields.io/badge/-🎥%20YouTube%20Clone-000)](https://github.com/ero/youtube-clone)  
-[![](https://img.shields.io/badge/-📒%20Notes%20App-000)](https://github.com/ero/notes-app)  
-[![](https://img.shields.io/badge/-🤖%20AI%20Chatbot-000)](https://github.com/ero/ai-chatbot)  
+[![](https://img.shields.io/badge/-🏛️%20Balaji%20Government%20Project-000)](https://github.com/Eklak-Alam/Training-Project-With-Certificate-Generate-Frontend-Code)  
+[![](https://img.shields.io/badge/-🎓%20Shanaya%20Training%20Institute-000)](https://github.com/Eklak-Alam/LMS-Learning-management-system-)  
+[![](https://img.shields.io/badge/-🏠%20Adichar%20Interior%20Design-000)](https://github.com/Eklak-Alam/ADICHR-Client)  
+[![](https://img.shields.io/badge/-🌐%20Stack%20Connect-000)](https://github.com/Eklak-Alam/Stack-Connect)  
 
 ---
 
