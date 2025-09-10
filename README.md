@@ -1,31 +1,36 @@
 Hi, I'm Eklak Alam 👋
-https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github
-https://img.shields.io/badge/Portfolio-Visit%2520Me-green?style=for-the-badge
-https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin
-https://img.shields.io/badge/FREELANCE-Available-brightgreen?style=for-the-badge
+https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github
+https://img.shields.io/badge/Portfolio-Visit-green?style=flat
+https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin
+https://img.shields.io/badge/FREELANCE-Available-brightgreen?style=flat
 
-I'm a passionate Full Stack Developer and Freelancer with expertise in building modern web applications and AI-powered solutions. I love turning complex problems into simple, beautiful, and intuitive solutions.
+Full Stack Developer & Freelancer passionate about building modern web applications and AI solutions.
 
-🚀 Technologies & Skills
-Frontend Development
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
+🛠️ Technologies
+Languages
+https://img.shields.io/badge/-Python-000?&logo=Python
+https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript
+https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396
+https://img.shields.io/badge/-C-000?&logo=C
+https://img.shields.io/badge/-SQL-000?&logo=MySQL
 
-Backend Development
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs"> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT">
+Frontend
+https://img.shields.io/badge/-React-000?&logo=React
+https://img.shields.io/badge/-Next.js-000?&logo=Next.js
+https://img.shields.io/badge/-Tailwind-000?&logo=Tailwind-CSS
 
-Databases
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC"> <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="JPA"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
+Backend
+https://img.shields.io/badge/-Node.js-000?&logo=node.js
+https://img.shields.io/badge/-Spring-000?&logo=Spring
+https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI
 
-AI & Data Science
-<img src="https://img.shields.io/badge/LangChain-FF6B00?style=for-the-badge" alt="LangChain"> <img src="https://img.shields.io/badge/LangGraph-00A86B?style=for-the-badge" alt="LangGraph"> <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" alt="LLMs"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn">
-
-DevOps & Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"> <img src="https://img.shields.io/badge/Domain_Management-FF6C37?style=for-the-badge&logo=domain&logoColor=white" alt="Domain Management">
+Tools & DevOps
+https://img.shields.io/badge/-Docker-000?&logo=Docker
+https://img.shields.io/badge/-Git-000?&logo=Git
+https://img.shields.io/badge/-Vercel-000?&logo=Vercel
 
 📊 GitHub Stats
-<p align="center"> <a href="https://github.com/ero"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ero&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ero&layout=compact&theme=radical&langs_count=8" /> </a> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ero&theme=radical" alt="ero" /> </p>
-🏆 GitHub Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=ero&theme=radical&no-frame=true&row=1&column=7" alt="ero" /> </a> </p>
+<a href="https://github.com/ero"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ero&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ero&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </a>
 📫 Let's Connect
 💼 LinkedIn
 
@@ -33,21 +38,4 @@ DevOps & Tools
 
 📧 Email
 
-🐦 Twitter (if applicable)
-
-🔥 Current Focus
-🔭 I'm currently working on AI-powered applications with LangChain and FastAPI
-
-🌱 I'm learning advanced LLM implementations and LangGraph
-
-👯 I'm looking to collaborate on open-source projects and freelance opportunities
-
-💬 Ask me about React, Next.js, Spring Boot, or AI integration
-
-⚡ Fun fact: I love solving complex problems and playing strategy games
-
-📈 Activity Graph
-https://activity-graph.herokuapp.com/graph?username=ero&theme=react-dark&hide_border=true
-
 ⭐️ From Eklak Alam
-
