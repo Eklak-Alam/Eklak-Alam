@@ -117,14 +117,14 @@
   
 ### 🏛️ Balaji Government Project  
 [![GitHub](https://img.shields.io/badge/-Code-000?&logo=github)](https://github.com/Eklak-Alam/Training-Project-With-Certificate-Generate-Frontend-Code)  
-[![Live](https://balajitraining.in/)  
+🌍 [Live Demo](https://balajitraining.in/)  
 
 </td>
 <td align="center" width="250">
   
 ### 🎓 Shanaya Training Institute  
 [![GitHub](https://img.shields.io/badge/-Code-000?&logo=github)](https://github.com/Eklak-Alam/LMS-Learning-management-system-)  
-[![Live](https://shanayatraining.com/)  
+🌍 [Live Demo](https://shanayatraining.com/)  
 
 </td>
 </tr>
@@ -134,14 +134,14 @@
   
 ### 🏠 Adichar Interior Design  
 [![GitHub](https://img.shields.io/badge/-Code-000?&logo=github)](https://github.com/Eklak-Alam/ADICHR-Client)  
-[![Live](https://www.adichr.com/)  
+🌍 [Live Demo](https://www.adichr.com/)  
 
 </td>
 <td align="center" width="250">
   
 ### 🌐 Stack Connect  
 [![GitHub](https://img.shields.io/badge/-Code-000?&logo=github)](https://github.com/Eklak-Alam/Stack-Connect)  
-[![Live](https://www.stackconnect.tech/)  
+🌍 [Live Demo](https://www.stackconnect.tech/)  
 
 </td>
 </tr>
