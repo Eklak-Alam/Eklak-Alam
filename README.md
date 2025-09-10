@@ -14,89 +14,98 @@
 
 ## 🧑‍💻 Tech Stack  
 
-<table align="center">
-<tr>
-<td align="center" width="200">
-  
-### 🖥️ Languages  
- 
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)  
-![C](https://img.shields.io/badge/-C-000?&logo=C)  
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)  
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px;">
 
-</td>
-<td align="center" width="200">
-  
-### 🎨 Frontend  
- 
-![React](https://img.shields.io/badge/-React-000?&logo=React)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwind-css)  
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-000?&logo=framer&logoColor=blue)  
+<!-- Frontend -->
+<div style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 12px; color: white;">
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white" />  
+<img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white" />  
+<img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black" />  
+<img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Framer%20Motion-000?logo=framer&logoColor=blue" />  
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" />  
+<img src="https://img.shields.io/badge/-Next.js-000?logo=next.js" />  
+<img src="https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white" />  
+</p>
+</div>
 
-</td>
-<td align="center" width="200">
-  
-### ⚙️ Backend  
- 
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)  
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=springboot)  
-![Hibernate](https://img.shields.io/badge/-Hibernate-000?&logo=hibernate)  
-![JPA](https://img.shields.io/badge/-JPA-000?&logo=java)  
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-000?&logo=fastapi)  
-![JWT](https://img.shields.io/badge/-JWT-000?&logo=json-web-tokens)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)  
-![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=python)  
-![LangGraph](https://img.shields.io/badge/-LangGraph-000?&logo=graph)  
+<!-- Backend -->
+<div style="background: linear-gradient(135deg, #42275a, #734b6d); padding: 20px; border-radius: 12px; color: white;">
+<h3 align="center">⚙️ Backend</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Spring%20Boot-000?logo=springboot&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate" />  
+<img src="https://img.shields.io/badge/-JPA-007396?logo=java" />  
+<img src="https://img.shields.io/badge/-REST%20APIs-02569B?logo=fastapi&logoColor=white" />  
+<img src="https://img.shields.io/badge/-JWT-000?logo=json-web-tokens" />  
+</p>
+</div>
 
-</td>
-</tr>
+<!-- AI & Data -->
+<div style="background: linear-gradient(135deg, #141e30, #243b55); padding: 20px; border-radius: 12px; color: white;">
+<h3 align="center">🤖 AI & Data</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />  
+<img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" />  
+<img src="https://img.shields.io/badge/-LangChain-000?logo=python" />  
+<img src="https://img.shields.io/badge/-LangGraph-6C63FF?logo=graph" />  
+<img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas" />  
+<img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy" />  
+<img src="https://img.shields.io/badge/-Matplotlib-11557c?logo=python" />  
+<img src="https://img.shields.io/badge/-Seaborn-4B8BBE?logo=python" />  
+</p>
+</div>
 
-<tr>
-<td align="center" width="200">
-  
-### 🗄️ Databases  
- 
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)  
-![JDBC](https://img.shields.io/badge/-JDBC-000?&logo=java)  
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)  
-![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=python)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=python)  
+<!-- Databases -->
+<div style="background: linear-gradient(135deg, #283c86, #45a247); padding: 20px; border-radius: 12px; color: white;">
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" />  
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />  
+</p>
+</div>
 
-</td>
-<td align="center" width="200">
-  
-### 🛠️ Tools  
- 
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)  
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)  
-![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)  
-![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=netlify)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)  
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=intellij-idea)  
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)  
-![Notion](https://img.shields.io/badge/-Notion-000?&logo=notion)  
+<!-- Programming Languages -->
+<div style="background: linear-gradient(135deg, #232526, #414345); padding: 20px; border-radius: 12px; color: white;">
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black" />  
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />  
+<img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black" />  
+</p>
+</div>
 
-</td>
-<td align="center" width="200">
-  
-### ☁️ Deployment  
- 
-![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)  
-![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=netlify)  
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)  
+<!-- Tools -->
+<div style="background: linear-gradient(135deg, #1f4037, #99f2c8); padding: 20px; border-radius: 12px; color: white;">
+<h3 align="center">🛠️ Tools</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" />  
+<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000?logo=intellij-idea&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Notion-000?logo=notion&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />  
+</p>
+</div>
 
-</td>
-</tr>
-</table>
+<!-- Deployment -->
+<div style="background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); padding: 20px; border-radius: 12px; color: white;">
+<h3 align="center">☁️ Deployment</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-Vercel-000?logo=vercel" />  
+<img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />  
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github" />  
+<img src="https://img.shields.io/badge/-Domain%20Management-FF9800?logo=internetexplorer&logoColor=white" />  
+</p>
+</div>
+
+</div>
 
 ---
 
