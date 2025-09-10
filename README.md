@@ -1,100 +1,93 @@
-Hi, I'm Eklak Alam 👋
-<div align="center">
-https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github
-https://img.shields.io/badge/Portfolio-Visit%2520Me-green?style=for-the-badge
-https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin
-https://img.shields.io/badge/FREELANCE-Available-brightgreen?style=for-the-badge
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://github.com/ero)
 
-</div>
-👨‍💻 About Me
-I'm a passionate Full Stack Developer and Freelancer with expertise in building modern web applications and AI-powered solutions. I love turning complex problems into simple, beautiful, and intuitive solutions.
+# 👋 Hey, I'm **Eklak Alam**  
 
-🚀 Tech Stack
-🎨 Frontend Development
-<div align="center">
-https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
-https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black
-https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white
-https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white
-https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white
+🚀 **Web Developer | Backend Engineer | Freelancer**  
+💡 Passionate about building scalable apps, APIs, and experimenting with AI/LLMs  
 
-</div>
-⚙️ Backend Development
-<div align="center">
-https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white
-https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white
-https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white
-https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
-https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white
-https://img.shields.io/badge/REST%2520APIs-FF6C37?style=flat&logo=rest&logoColor=white
-https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white
+---
 
-</div>
-🗄️ Databases
-<div align="center">
-https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
-https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white
-https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=spring&logoColor=white
-https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white
+### 🖥️ Languages  
 
-</div>
-🤖 AI & Data Science
-<div align="center">
-https://img.shields.io/badge/LangChain-FF6B00?style=flat
-https://img.shields.io/badge/LangGraph-00A86B?style=flat
-https://img.shields.io/badge/LLMs-000000?style=flat
-https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white
-https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white
-https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white
-https://img.shields.io/badge/Seaborn-4C72B0?style=flat
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)  
+![C](https://img.shields.io/badge/-C-000?&logo=C)  
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)  
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  
 
-</div>
-🛠️ DevOps & Tools
-<div align="center">
-https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white
-https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white
-https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white
-https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white
-https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white
-https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white
-https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white
+---
 
-</div>
-📊 GitHub Stats
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=ero&show_icons=true&theme=radical&count_private=true
+### ⚡ Technologies & Frameworks  
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=ero&layout=compact&theme=radical&langs_count=8
+![React](https://img.shields.io/badge/-React-000?&logo=React)  
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwind-css)  
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-000?&logo=framer&logoColor=blue)  
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)  
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)  
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=springboot)  
+![Hibernate](https://img.shields.io/badge/-Hibernate-000?&logo=hibernate)  
+![JPA](https://img.shields.io/badge/-JPA-000?&logo=java)  
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-000?&logo=fastapi)  
+![JWT](https://img.shields.io/badge/-JWT-000?&logo=json-web-tokens)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)  
+![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=python)  
+![LangGraph](https://img.shields.io/badge/-LangGraph-000?&logo=graph)  
 
-https://github-readme-streak-stats.herokuapp.com/?user=ero&theme=radical
+---
 
-</div>
-📫 Let's Connect
-💼 LinkedIn
+### 🗄️ Databases & Data Tools  
 
-🌐 Portfolio
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)  
+![JDBC](https://img.shields.io/badge/-JDBC-000?&logo=java)  
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)  
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=python)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=python)  
 
-📧 Email: eklak.alam@example.com
+---
 
-🐦 Twitter: @eklakalam
+### 🛠️ Tools & Deployment  
 
-🔥 Current Focus
-🔭 Working on AI-powered applications with LangChain and FastAPI
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)  
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)  
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)  
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=netlify)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)  
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=intellij-idea)  
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)  
+![Notion](https://img.shields.io/badge/-Notion-000?&logo=notion)  
 
-🌱 Learning advanced LLM implementations and LangGraph
+---
 
-👯 Looking to collaborate on open-source projects
+### 🚀 Featured Projects  
 
-💬 Ask me about React, Next.js, Spring Boot, or AI integration
+[![](https://img.shields.io/badge/-📝%20Employee%20Management%20System-000)](https://github.com/ero/employee-management)  
+[![](https://img.shields.io/badge/-🎥%20YouTube%20Clone-000)](https://github.com/ero/youtube-clone)  
+[![](https://img.shields.io/badge/-📒%20Notes%20App-000)](https://github.com/ero/notes-app)  
+[![](https://img.shields.io/badge/-🤖%20AI%20Chatbot-000)](https://github.com/ero/ai-chatbot)  
 
-⚡ Fun fact: I love solving complex problems and playing strategy games
+---
 
-<div align="center">
-⭐️ From Eklak Alam
+### 📊 GitHub Stats  
 
-</div>
+<a href="https://github.com/ero">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ero&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ero&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</a>  
+
+---
+
+### 🎮 Fun Section  
+
+```bash
+while(alive) {
+   code();
+   eat();
+   sleep();
+   repeat();
+}
