@@ -1,13 +1,18 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://github.com/ero)
+<!-- Typing SVG Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Eklak+Alam;Web+Developer+%7C+Backend+Engineer+%7C+Freelancer;I+build+scalable+apps%2C+APIs+%26+AI+projects" />
+</p>
+
+---
 
 # 👋 Hey, I'm **Eklak Alam**  
 
 🚀 **Web Developer | Backend Engineer | Freelancer**  
-💡 Passionate about building scalable apps, APIs, and experimenting with AI/LLMs  
+💡 Passionate about building **scalable apps, APIs, and AI/LLM-powered solutions**  
 
 ---
 
-### 🖥️ Languages  
+## 🖥️ Languages  
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)  
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6)  
@@ -20,12 +25,17 @@
 
 ---
 
-### ⚡ Technologies & Frameworks  
+## 🎨 Frontend Technologies  
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)  
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwind-css)  
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-000?&logo=framer&logoColor=blue)  
+
+---
+
+## ⚙️ Backend Technologies  
+
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)  
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)  
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=springboot)  
@@ -39,7 +49,7 @@
 
 ---
 
-### 🗄️ Databases & Data Tools  
+## 🗄️ Databases & Data Tools  
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)  
 ![JDBC](https://img.shields.io/badge/-JDBC-000?&logo=java)  
@@ -50,7 +60,7 @@
 
 ---
 
-### 🛠️ Tools & Deployment  
+## 🛠️ Tools & Deployment  
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)  
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)  
@@ -64,7 +74,7 @@
 
 ---
 
-### 🚀 Featured Projects  
+## 🚀 Featured Projects  
 
 [![](https://img.shields.io/badge/-📝%20Employee%20Management%20System-000)](https://github.com/ero/employee-management)  
 [![](https://img.shields.io/badge/-🎥%20YouTube%20Clone-000)](https://github.com/ero/youtube-clone)  
@@ -73,7 +83,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 
 <a href="https://github.com/ero">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ero&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -82,12 +92,11 @@
 
 ---
 
-### 🎮 Fun Section  
+## 🎮 Fun Section  
 
-```bash
-while(alive) {
-   code();
-   eat();
-   sleep();
-   repeat();
+```javascript
+const life = ["code", "eat", "sleep", "repeat"];
+
+for (let i = 0; i < life.length; i++) {
+    console.log(`I love to ${life[i]} 🚀`);
 }
