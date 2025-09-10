@@ -111,10 +111,42 @@
 
 ## 🚀 Featured Projects  
 
-[![](https://img.shields.io/badge/-🏛️%20Balaji%20Government%20Project-000)](https://github.com/Eklak-Alam/Training-Project-With-Certificate-Generate-Frontend-Code)  
-[![](https://img.shields.io/badge/-🎓%20Shanaya%20Training%20Institute-000)](https://github.com/Eklak-Alam/LMS-Learning-management-system-)  
-[![](https://img.shields.io/badge/-🏠%20Adichar%20Interior%20Design-000)](https://github.com/Eklak-Alam/ADICHR-Client)  
-[![](https://img.shields.io/badge/-🌐%20Stack%20Connect-000)](https://github.com/Eklak-Alam/Stack-Connect)  
+<table align="center">
+<tr>
+<td align="center" width="250">
+  
+### 🏛️ Balaji Government Project  
+[![GitHub](https://img.shields.io/badge/-Code-000?&logo=github)](https://github.com/Eklak-Alam/Training-Project-With-Certificate-Generate-Frontend-Code)  
+[![Live](https://balajitraining.in/)  
+
+</td>
+<td align="center" width="250">
+  
+### 🎓 Shanaya Training Institute  
+[![GitHub](https://img.shields.io/badge/-Code-000?&logo=github)](https://github.com/Eklak-Alam/LMS-Learning-management-system-)  
+[![Live](https://shanayatraining.com/)  
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="250">
+  
+### 🏠 Adichar Interior Design  
+[![GitHub](https://img.shields.io/badge/-Code-000?&logo=github)](https://github.com/Eklak-Alam/ADICHR-Client)  
+[![Live](https://www.adichr.com/)  
+
+</td>
+<td align="center" width="250">
+  
+### 🌐 Stack Connect  
+[![GitHub](https://img.shields.io/badge/-Code-000?&logo=github)](https://github.com/Eklak-Alam/Stack-Connect)  
+[![Live](https://www.stackconnect.tech/)  
+
+</td>
+</tr>
+</table>
+
 
 ---
 
