@@ -12,8 +12,14 @@
 
 ---
 
-## 🖥️ Languages  
+## 🧑‍💻 Tech Stack  
 
+<table align="center">
+<tr>
+<td align="center" width="200">
+  
+### 🖥️ Languages  
+ 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)  
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)  
@@ -23,19 +29,21 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  
 
----
-
-## 🎨 Frontend Technologies  
-
+</td>
+<td align="center" width="200">
+  
+### 🎨 Frontend  
+ 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)  
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwind-css)  
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-000?&logo=framer&logoColor=blue)  
 
----
-
-## ⚙️ Backend Technologies  
-
+</td>
+<td align="center" width="200">
+  
+### ⚙️ Backend  
+ 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)  
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)  
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=springboot)  
@@ -47,10 +55,14 @@
 ![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=python)  
 ![LangGraph](https://img.shields.io/badge/-LangGraph-000?&logo=graph)  
 
----
+</td>
+</tr>
 
-## 🗄️ Databases & Data Tools  
-
+<tr>
+<td align="center" width="200">
+  
+### 🗄️ Databases  
+ 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)  
 ![JDBC](https://img.shields.io/badge/-JDBC-000?&logo=java)  
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)  
@@ -58,10 +70,11 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=python)  
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=python)  
 
----
-
-## 🛠️ Tools & Deployment  
-
+</td>
+<td align="center" width="200">
+  
+### 🛠️ Tools  
+ 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)  
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)  
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)  
@@ -72,6 +85,19 @@
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)  
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=notion)  
 
+</td>
+<td align="center" width="200">
+  
+### ☁️ Deployment  
+ 
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)  
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=netlify)  
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)  
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🚀 Featured Projects  
@@ -80,15 +106,6 @@
 [![](https://img.shields.io/badge/-🎥%20YouTube%20Clone-000)](https://github.com/ero/youtube-clone)  
 [![](https://img.shields.io/badge/-📒%20Notes%20App-000)](https://github.com/ero/notes-app)  
 [![](https://img.shields.io/badge/-🤖%20AI%20Chatbot-000)](https://github.com/ero/ai-chatbot)  
-
----
-
-## 📊 GitHub Stats  
-
-<a href="https://github.com/ero">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ero&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ero&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</a>  
 
 ---
 
