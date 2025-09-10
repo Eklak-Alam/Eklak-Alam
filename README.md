@@ -1,89 +1,83 @@
-# 👋 Hi, I'm Eklak Alam  
+Hi, I'm Eklak Alam 👋
+https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github
+https://img.shields.io/badge/Portfolio-Visit%2520Me-green?style=for-the-badge
+https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin
+https://img.shields.io/badge/FREELANCE-Available-brightgreen?style=for-the-badge
 
-### 🚀 Web Developer | 💻 Backend Developer | 🎯 Freelancer  
+I'm a passionate Full Stack Developer and Freelancer with expertise in building modern web applications and AI-powered solutions. I love turning complex problems into simple, beautiful, and intuitive solutions.
 
-I’m a passionate **Full-Stack Developer** and **Freelancer**, who loves building modern, scalable web apps and experimenting with AI-powered tools.  
-I enjoy working with **React, Next.js, Spring Boot, FastAPI, LangChain, and Databases**, and I’m always excited to learn new technologies.  
+🚀 Technologies & Skills
+Frontend Development
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
+https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white
 
----
+Backend Development
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
+https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
+https://img.shields.io/badge/REST%2520APIs-FF6C37?style=for-the-badge&logo=rest&logoColor=white
+https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white
 
-## 🧑‍💻 About Me  
-- 🔭 Currently working on **Full-Stack Projects (React + Spring Boot + MySQL)**  
-- 🌱 Exploring **AI/LLMs with FastAPI & LangChain**  
-- 💬 Ask me about **React, Next.js, Spring Boot, and APIs**  
-- 🎯 Goal: To become a **Professional Backend + AI Engineer**  
-- ⚡ Fun fact: I love creating side projects, debugging code, and experimenting with **Docker & Cloud Deployment**.  
+Databases
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white
 
----
+AI & Data Science
+https://img.shields.io/badge/LangChain-FF6B00?style=for-the-badge
+https://img.shields.io/badge/LangGraph-00A86B?style=for-the-badge
+https://img.shields.io/badge/LLMs-000000?style=for-the-badge
+https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
+https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge
 
-## 🛠️ Tech Stack  
+DevOps & Tools
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
+https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white
+https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
+https://img.shields.io/badge/Domain_Management-FF6C37?style=for-the-badge&logo=domain&logoColor=white
 
-### 🌐 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=flat&logo=framer&logoColor=blue)  
+📊 GitHub Stats
+<p align="center"> <a href="https://github.com/ero"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ero&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ero&layout=compact&theme=radical&langs_count=8" /> </a> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ero&theme=radical" alt="ero" /> </p>
+🏆 GitHub Trophies
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=ero&theme=radical&no-frame=true&row=1&column=7" alt="ero" /> </a> </p>
+📫 Let's Connect
+💼 LinkedIn
 
-### ⚙️ Backend & APIs  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)  
-![JPA](https://img.shields.io/badge/JPA-000000?style=flat&logo=java&logoColor=white)  
-![REST APIs](https://img.shields.io/badge/REST-02569B?style=flat&logo=fastapi&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=json-web-tokens&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=flat&logo=python&logoColor=blue)  
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logo=graph&logoColor=yellow)  
+🌐 Portfolio
 
-### 📊 Database  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white)  
+📧 Email
 
-### 🐍 Python & Data  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=flat&logo=python&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8BF5?style=flat&logo=python&logoColor=white)  
+🐦 Twitter (if applicable)
 
-### 🛠️ Tools & Deployment  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)  
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)  
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)  
+🔥 Current Focus
+🔭 I'm currently working on AI-powered applications with LangChain and FastAPI
 
----
+🌱 I'm learning advanced LLM implementations and LangGraph
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ero&show_icons=true&theme=tokyonight" alt="Eklak Alam GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ero&theme=tokyonight" alt="streak stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ero&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>  
+👯 I'm looking to collaborate on open-source projects and freelance opportunities
 
----
+💬 Ask me about React, Next.js, Spring Boot, or AI integration
 
-## 🚀 Featured Projects  
-- 📝 **Employee Management System** (Spring Boot + React + MySQL)  
-- 🎥 **YouTube Clone** (React + RapidAPI + Context API)  
-- 🛠️ **Notes App** (React + LocalStorage + CRUD)  
-- 🤖 **AI Chatbot** (LangChain + FastAPI + LLMs)  
+⚡ Fun fact: I love solving complex problems and playing strategy games
 
----
+📈 Activity Graph
+https://activity-graph.herokuapp.com/graph?username=ero&theme=react-dark&hide_border=true
 
-## 🎮 Fun Section  
-```bash
-while(alive) {
-   code();
-   eat();
-   sleep();
-   repeat();
-}
+⭐️ From Eklak Alam
