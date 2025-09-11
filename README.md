@@ -112,17 +112,6 @@ Tags: full-stack, web-developer, java, spring-boot, react, nextjs, python, fasta
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Eklak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eklak-Alam&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eklak-Alam&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eklak-Alam&theme=radical)
-
-</div>
 
 ---
 
