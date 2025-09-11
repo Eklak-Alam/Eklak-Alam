@@ -13,7 +13,7 @@ Tags: full-stack, web-developer, java, spring-boot, react, nextjs, python, fasta
 
 🚀 **Full Stack Developer | Web Developer | Backend Engineer | Freelancer**  
 💡 Passionate about building **scalable apps, APIs, and AI/LLM-powered solutions**  
-🌍 Based in India | 📧 eklakalam198@gmail.com
+🌍 Based in India | 📧 eklakalam420@gmail.com
 
 ---
 
