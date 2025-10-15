@@ -1,47 +1,166 @@
-🚀 Eklak Alam - Full Stack Developer & AI Enthusiast
-<div align="center">
-https://via.placeholder.com/800x200/0f172a/ffffff?text=Hello+World!+%F0%9F%91%8B+I'm+Eklak+Alam
+<!--
+Tags: full-stack, web-developer, java, spring-boot, react, nextjs, python, fastapi, javascript, portfolio, backend, frontend, ai, machine-learning, open-source
+-->
+
+<!-- Typing SVG Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Eklak+Alam;Web+Developer+%7C+Backend+Engineer+%7C+Freelancer;I+build+scalable+apps%2C+APIs+%26+AI+projects" />
+</p>
+
+---
+
+# 👋 Hey, I'm **Eklak Alam**  
+
+🚀 **Full Stack Developer | Web Developer | Backend Engineer | Freelancer**  
+💡 Passionate about building **scalable apps, APIs, and AI/LLM-powered solutions**  
+🌍 Based in India | 📧 eklakalam420@gmail.com
+
+---
+
+## 🧑‍💻 Tech Stack  
+
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px;">
+
+<!-- Frontend -->
+<div style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 12px; color: white;">
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white" />  
+<img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white" />  
+<img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black" />  
+<img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Framer%20Motion-000?logo=framer&logoColor=blue" />  
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" />  
+<img src="https://img.shields.io/badge/-Next.js-000?logo=next.js" />  
+<img src="https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white" />  
+</p>
+</div>
+
+<!-- Backend -->
+<div style="background: linear-gradient(135deg, #42275a, #734b6d); padding: 20px; border-radius: 12px; color: white;">
+<h3 align="center">⚙️ Backend</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Spring%20Boot-000?logo=springboot&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate" />  
+<img src="https://img.shields.io/badge/-JPA-007396?logo=java" />  
+<img src="https://img.shields.io/badge/-REST%20APIs-02569B?logo=fastapi&logoColor=white" />  
+<img src="https://img.shields.io/badge/-JWT-000?logo=json-web-tokens" />  
+</p>
+</div>
+
+<!-- AI & Data -->
+<div style="background: linear-gradient(135deg, #141e30, #243b55); padding: 20px; border-radius: 12px; color: white;">
+<h3 align="center">🤖 AI & Data</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />  
+<img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" />  
+<img src="https://img.shields.io/badge/-LangChain-000?logo=python" />  
+<img src="https://img.shields.io/badge/-LangGraph-6C63FF?logo=graph" />  
+<img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas" />  
+<img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy" />  
+<img src="https://img.shields.io/badge/-Matplotlib-11557c?logo=python" />  
+<img src="https://img.shields.io/badge/-Seaborn-4B8BBE?logo=python" />  
+</p>
+</div>
+
+<!-- Databases -->
+<div style="background: linear-gradient(135deg, #283c86, #45a247); padding: 20px; border-radius: 12px; color: white;">
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" />  
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />  
+</p>
+</div>
+
+<!-- Programming Languages -->
+<div style="background: linear-gradient(135deg, #232526, #414345); padding: 20px; border-radius: 12px; color: white;">
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black" />  
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />  
+<img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black" />  
+</p>
+</div>
+
+<!-- Tools -->
+<div style="background: linear-gradient(135deg, #1f4037, #99f2c8); padding: 20px; border-radius: 12px; color: white;">
+<h3 align="center">🛠️ Tools</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" />  
+<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000?logo=intellij-idea&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Notion-000?logo=notion&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />  
+</p>
+</div>
+
+<!-- Deployment -->
+<div style="background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); padding: 20px; border-radius: 12px; color: white;">
+<h3 align="center">☁️ Deployment</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-Vercel-000?logo=vercel" />  
+<img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />  
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github" />  
+<img src="https://img.shields.io/badge/-Domain%20Management-FF9800?logo=internetexplorer&logoColor=white" />  
+</p>
+</div>
 
 </div>
-👨‍💻 About Me
-<h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver</h3><p align="center"> Passionate about building <strong>scalable applications</strong> and <strong>AI-powered solutions</strong>. I love turning complex problems into simple, beautiful designs. </p>
-🛠️ Tech Stack
-Frontend Development
-<div align="center"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </div>
-Backend Development
-<div align="center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> </div>
-AI & Data Science
-<div align="center"> <img src="https://img.shields.io/badge/LangChain-FF6B35?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" /> </div>
-Databases & Tools
-<div align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> </div>
-💼 Featured Projects
-🏛️ Balaji Government Project
-<p> <strong>Certificate Generation System</strong> - A government project for automated certificate generation and management. </p> <p> <strong>Tech Stack:</strong> React, Spring Boot, MySQL <br> <strong>Live Demo:</strong> <a href="https://balajitraining.in/">🌐 Visit Site</a> </p>
-🎓 Shanaya Training Institute
-<p> <strong>Learning Management System</strong> - Complete LMS platform for online education and course management. </p> <p> <strong>Tech Stack:</strong> Next.js, FastAPI, MongoDB <br> <strong>Live Demo:</strong> <a href="https://shanayatraining.com/">🌐 Visit Site</a> </p>
-🏠 Adichar Interior Design
-<p> <strong>Portfolio Showcase</strong> - Beautiful portfolio website for interior design services with smooth animations. </p> <p> <strong>Tech Stack:</strong> React, Tailwind CSS, Framer Motion <br> <strong>Live Demo:</strong> <a href="https://www.adichr.com/">🌐 Visit Site</a> </p>
-🌐 Stack Connect
-<p> <strong>Developer Community Platform</strong> - Social platform for developers to connect, share, and collaborate. </p> <p> <strong>Tech Stack:</strong> Next.js, Spring Boot, MySQL <br> <strong>Live Demo:</strong> <a href="https://www.stackconnect.tech/">🌐 Visit Site</a> </p>
-📊 GitHub Statistics
+
+
+---
+
+## 🚀 Featured Projects  
+
 <div align="center">
-https://github-readme-stats.vercel.app/api?username=eklakalam&show_icons=true&theme=radical&hide_border=true
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=eklakalam&layout=compact&theme=radical&hide_border=true
-
-https://github-readme-streak-stats.herokuapp.com/?user=eklakalam&theme=radical&hide_border=true
+| Project | Description | Tech Stack | Live Demo |
+| :--- | :--- | :--- | :--- |
+| **🏛️ Balaji Government Project** | Certificate Generation System | React, Spring Boot, MySQL | [🌍 Visit](https://balajitraining.in/) |
+| **🎓 Shanaya Training Institute** | Learning Management System | Next.js, FastAPI, MongoDB | [🌍 Visit](https://shanayatraining.com/) |
+| **🏠 Adichar Interior Design** | Portfolio Showcase | React, Tailwind CSS, Framer Motion | [🌍 Visit](https://www.adichr.com/) |
+| **🌐 Stack Connect** | Developer Community Platform | Next.js, Spring Boot, MySQL | [🌍 Visit](https://www.stackconnect.tech/) |
 
 </div>
-🎯 Currently Working On
-<h4>🔥 AI-Powered Applications</h4> <p>Building intelligent applications using LangChain and LangGraph for enhanced user experiences.</p><h4>🌐 Microservices Architecture</h4> <p>Developing scalable and maintainable microservices for enterprise applications.</p><h4>📚 Cloud & DevOps</h4> <p>Learning advanced cloud technologies and implementing DevOps best practices.</p><h4>💼 Freelance Projects</h4> <p>Working with clients worldwide to deliver high-quality software solutions.</p>
-📫 Get In Touch
+
+---
+
+## 🎯 Currently Working On
+
+- 🔥 Building AI-powered applications with LangChain and LangGraph
+- 🌐 Developing scalable microservices architecture
+- 📚 Learning advanced cloud technologies and DevOps practices
+- 💼 Working on freelance projects for clients worldwide
+
+---
+
+## 📫 Let's Connect
+
 <div align="center">
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&width=120
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&width=100
-https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white&width=120
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&width=100
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eklak-alam-40ba632b5/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eklakalam420@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://eklak.vercel.app/)
 
 </div>
-<div align="center">
-🚀 Let's Build Something Amazing Together!
-<img src="https://visitor-badge.laobi.icu/badge?page_id=eklakalam.eklakalam" alt="Visitor Count" /></div>
+
+---
+
+## 🎮 Fun Coding Facts
+
+```javascript
+const life = ["code", "debug", "coffee", "repeat"];
+
+while (true) {
+  life.forEach(activity => {
+    console.log(`I love to ${activity} 🚀`);
+    if (activity === "debug") {
+      console.log("Finding solutions to complex problems!");
+    }
+  });
+}
