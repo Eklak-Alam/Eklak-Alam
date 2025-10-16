@@ -11,7 +11,7 @@ Tags: full-stack, web-developer, java, spring-boot, react, nextjs, python, fasta
 
 # 👋 Hey, I'm **Eklak Alam**  
 
-🚀 **Full Stack Developer | Devops Engineer | Backend Engineer | Freelancer**  
+🚀 **Full Stack Developer | Frontend Engineer | Devops Engineer | Backend Engineer | Freelancer**  
 💡 Passionate about building **scalable apps, APIs, and AI/LLM-powered solutions**  
 🌍 Based in India | 📧 eklakalam420@gmail.com
 
