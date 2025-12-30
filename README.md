@@ -11,9 +11,9 @@ Experienced Full Stack Developer with a strong foundation in building scalable w
 
 | | |
 | :--- | :--- |
-| **Frontend Development**<br>React.js, Next.js, Tailwind CSS, Framer Motion, HTML5, CSS3, Node.js | **Backend Engineering**<br>Spring Boot, Hibernate, JPA, REST APIs, Microservices, FastAPI, LangChain |
-| **Programming Languages**<br>Java, Python, JavaScript, C | **Data & AI**<br>Pandas, NumPy, Matplotlib, Seaborn, AI/LLM Apps |
-| **DevOps & Deployment**<br>Docker, Git, GitHub, Vercel, Netlify, Domain Management | **Database & Tools**<br>MySQL, MongoDB, IntelliJ IDEA, VS Code, Postman, Figma |
+| **DevOps & Cloud**<br>AWS Cloud Services, Terraform, Kubernetes, Docker, Jenkins, ArgoCD, Linux, CI/CD, Git, GitHub | **AI, Data & GenAI**<br>Generative AI, RAG, Embeddings, LangChain, LangGraph, Python, FastAPI, NumPy, Pandas |
+| **Frontend Development**<br>React.js, Next.js, Tailwind CSS, Framer Motion, HTML5, CSS3, Node.js | **Backend Engineering**<br>Spring Boot, Spring MVC, Hibernate, JPA, REST APIs, Microservices, JWT Authentication |
+| **Programming Languages**<br>Java, Python, JavaScript, C | **Databases & Tools**<br>MySQL, MongoDB, IntelliJ IDEA, VS Code, Postman, Figma |
 
 ## Current Focus
 * Architecting scalable microservices using Spring Boot and Docker.
