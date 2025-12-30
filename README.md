@@ -9,55 +9,11 @@ Experienced Full Stack Developer with a strong foundation in building scalable w
 
 ## Technical Skills
 
-**Programming Languages**
-* Java, Python, JavaScript, C
-
-**Frontend Development**
-* **Frameworks & Libraries:** React.js, Next.js, Tailwind CSS, Framer Motion
-* **Core:** HTML5, CSS3, JavaScript (ES6+)
-* **Runtime:** Node.js
-
-**Backend Engineering**
-* **Java Ecosystem:** Spring Boot, Spring MVC, Hibernate, JPA
-* **API Design:** RESTful APIs, JWT Authentication, Microservices
-* **Python Ecosystem:** FastAPI, LangChain, LangGraph
-
-**Data & AI**
-* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-* **Focus:** AI/LLM Application Development
-
-**Database Management**
-* MySQL, MongoDB
-
-**DevOps & Deployment**
-* **Containerization:** Docker
-* **Version Control:** Git, GitHub
-* **Cloud & Hosting:** Vercel, Netlify, Domain Management
-
-**Tools & IDEs**
-* IntelliJ IDEA, VS Code, Postman, Figma, Notion
-
-## Selected Projects
-
-**Stack Connect | Developer Community Platform**
-* **Description:** A comprehensive platform for developers to connect and share knowledge.
-* **Tech Stack:** Next.js, Spring Boot, MySQL
-* **Live Demo:** [stackconnect.tech](https://www.stackconnect.tech/)
-
-**Balaji Government Project | Certificate Generation System**
-* **Description:** An automated system for generating and managing government training certificates.
-* **Tech Stack:** React, Spring Boot, MySQL
-* **Live Demo:** [balajitraining.in](https://balajitraining.in/)
-
-**Shanaya Training Institute | Learning Management System (LMS)**
-* **Description:** A full-featured LMS for managing courses, students, and educational content.
-* **Tech Stack:** Next.js, FastAPI, MongoDB
-* **Live Demo:** [shanayatraining.com](https://shanayatraining.com/)
-
-**Adichar Interior Design | Corporate Portfolio**
-* **Description:** A high-performance, animated portfolio website for an interior design firm.
-* **Tech Stack:** React, Tailwind CSS, Framer Motion
-* **Live Demo:** [adichr.com](https://www.adichr.com/)
+| | |
+| :--- | :--- |
+| **Frontend Development**<br>React.js, Next.js, Tailwind CSS, Framer Motion, HTML5, CSS3, Node.js | **Backend Engineering**<br>Spring Boot, Hibernate, JPA, REST APIs, Microservices, FastAPI, LangChain |
+| **Programming Languages**<br>Java, Python, JavaScript, C | **Data & AI**<br>Pandas, NumPy, Matplotlib, Seaborn, AI/LLM Apps |
+| **DevOps & Deployment**<br>Docker, Git, GitHub, Vercel, Netlify, Domain Management | **Database & Tools**<br>MySQL, MongoDB, IntelliJ IDEA, VS Code, Postman, Figma |
 
 ## Current Focus
 * Architecting scalable microservices using Spring Boot and Docker.
