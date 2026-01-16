@@ -1,58 +1,20 @@
 # Eklak Alam
+**Full Stack Developer | Backend Engineer | DevOps & Cloud Enthusiast**
 
-**Full Stack Architect | DevOps Engineer | Cloud Enthusiast** Based in India
+Based in India | [eklakalam420@gmail.com](mailto:eklakalam420@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/eklak-alam-40ba632b5/) | [Portfolio Website](https://eklak.vercel.app/)
 
-[Email](mailto:eklakalam420@gmail.com) • [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) • [Portfolio Website](https://your-portfolio-link.com)
+## Professional Summary
+Experienced Full Stack Developer with a strong foundation in building scalable web applications, RESTful APIs, and AI-integrated solutions. Proficient in both frontend and backend technologies, with specialized expertise in the Spring Boot ecosystem, React/Next.js, and Cloud DevOps practices. Passionate about developing efficient, clean, and maintainable code for complex software systems.
 
----
+## Technical Skills
 
-### 👨‍💻 About Me
-
-I am a **Full-Stack Architect** and **DevOps Engineer** focused on performance, security, and scalability. I bridge the gap between complex backend logic, cloud infrastructure, and intuitive frontend experiences.
-
-* **Focus:** Building systems that are scalable by design.
-* **Experience:** 1+ Years Building, 5+ Clients Served, 10+ Projects Shipped.
-* **Current Architecture:** Designing production-ready microservices and agentic AI platforms.
-
----
-
-### 🛠 Technical Arsenal
-
-| Domain | Technologies |
+| | |
 | :--- | :--- |
-| **Backend & API** | Node.js, Spring Boot, Express, REST APIs, GraphQL, Microservices |
-| **Frontend** | React.js, Next.js (App Router), Tailwind CSS, Framer Motion, TypeScript |
-| **DevOps & Cloud** | AWS (EC2, S3), Docker, Kubernetes, Jenkins, Terraform, CI/CD Pipelines |
-| **AI & Data** | Python, LangChain, RAG Architecture, OpenAI API, MySQL, MongoDB |
+| **Programming Languages**<br>Java, Python, JavaScript, C | **Frontend Development**<br>React.js, Next.js, Tailwind CSS, Framer Motion, HTML5, CSS3, Node.js |
+| **Backend Engineering**<br>Spring Boot, Spring MVC, Hibernate, JPA, REST APIs, Microservices, JWT Authentication | **Databases & Tools**<br>MySQL, MongoDB, IntelliJ IDEA, VS Code, Postman, Figma |
+| **DevOps & Cloud**<br>AWS Cloud Services, Terraform, Kubernetes, Docker, Jenkins, ArgoCD, Linux, CI/CD, Git, GitHub | **AI, Data & GenAI**<br>Generative AI, RAG, Embeddings, LangChain, LangGraph, Python, FastAPI, NumPy, Pandas |
 
----
-
-### 🚀 Selected Engineering Projects
-
-#### **Gaprio – Enterprise AI Operating System**
-*An agentic AI platform that orchestrates workflows across fragmented enterprise tools.*
-* **Architecture:** Next.js 14, Python (FastAPI), LangChain, RAG.
-* **Key Feature:** Uses autonomous agents to plan, execute, and verify complex multi-step tasks across Slack and Jira without human intervention.
-
-#### **GogalEdu – Secure LMS Platform**
-*A production-grade LMS built for high-stakes coaching institutes focusing on IP protection.*
-* **Architecture:** Next.js, Node.js, Express, Shadcn UI.
-* **Key Feature:** Custom encrypted video player and streaming pipeline to prevent unauthorized downloads.
-
-#### **Dockerized 3-Tier Real-Time Chat**
-*End-to-end containerization and cloud deployment of a WebSocket application.*
-* **DevOps Stack:** AWS EC2, Docker Compose, Nginx (Reverse Proxy), GitHub Actions.
-* **Key Feature:** Fully automated CI/CD pipeline reducing deployment time by 80%.
-
----
-
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eklak-Alam&show_icons=true&theme=graywhite&hide_border=true&title_color=000000&icon_color=000000&text_color=333333" alt="Eklak's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eklak-Alam&layout=compact&theme=graywhite&hide_border=true&title_color=000000&text_color=333333&hide=jupyter%20notebook" alt="Top Languages" />
-</p>
-
----
-
-© 2026 Eklak Alam. *Designing systems that scale beyond code.*
+## Current Focus
+* Architecting scalable microservices using Spring Boot and Docker.
+* Developing AI-powered applications utilizing LangChain and Large Language Models (LLMs).
+* Advancing proficiency in Cloud infrastructure and DevOps methodologies.
