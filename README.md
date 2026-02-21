@@ -1,4 +1,4 @@
-# Eklak
+# Eklak Alam
 **Full Stack Developer | Backend Engineer | DevOps & Cloud Enthusiast**
 
 Based in India | [eklakalam420@gmail.com](mailto:eklakalam420@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/eklak-alam-40ba632b5/) | [Portfolio Website](https://eklak.vercel.app/)
