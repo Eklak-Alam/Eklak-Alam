@@ -1,7 +1,7 @@
 # Eklak Alam
 **Full Stack Developer | Backend Engineer | DevOps & Cloud Enthusiast**
 
-Based in Indi | [eklakalam420@gmail.com](mailto:eklakalam420@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/eklak-alam-40ba632b5/) | [Portfolio Website](https://eklak.vercel.app/)
+Based in India | [eklakalam420@gmail.com](mailto:eklakalam420@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/eklak-alam-40ba632b5/) | [Portfolio Website](https://eklak.vercel.app/)
 
 ## Professional Summary
 Experienced Full Stack Developer with a strong foundation in building scalable web applications, RESTful APIs, and AI-integrated solutions. Proficient in both frontend and backend technologies, with specialized expertise in the Spring Boot ecosystem, React/Next.js, and Cloud DevOps practices. Passionate about developing efficient, clean, and maintainable code for complex software systems.
