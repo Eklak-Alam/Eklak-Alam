@@ -5,8 +5,8 @@
 
 *Building on Localhost. Deploying to the World.*
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-E8751A?style=flat-square)](https://eklak.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-40513B?style=flat-square)](https://www.linkedin.com/in/eklak-alam-40ba632b5/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-E8751A?style=flat-square)](https://www.eklak.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-40513B?style=flat-square)](https://www.linkedin.com/in/eklak-alam/)
 [![Email](https://img.shields.io/badge/Email_Me-609966?style=flat-square)](mailto:eklakalam420@gmail.com)
 
 <br>
@@ -69,8 +69,8 @@
 <div align="center">
   <h3>Ready to scale? Let's chat.</h3>
   <p>
-    <a href="https://www.linkedin.com/in/eklak-alam-40ba632b5/"><b>LinkedIn</b></a> &nbsp; | &nbsp; 
-    <a href="https://github.com/your-github-username"><b>GitHub</b></a> &nbsp; | &nbsp; 
+    <a href="https://www.linkedin.com/in/eklak-alam/"><b>LinkedIn</b></a> &nbsp; | &nbsp; 
+    <a href="https://github.com/Eklak-Alam"><b>GitHub</b></a> &nbsp; | &nbsp; 
     <a href="mailto:eklakalam420@gmail.com"><b>Email</b></a>
   </p>
   <p><i>Base of Operations: India</i></p>
