@@ -1,65 +1,41 @@
 <div align="center">
 
-# Eklak Alam
+# EKLAK ALAM
 **System Architect & Full-Stack Engineer**
 
-*Building on Localhost. Deploying to the World.*
+*Independent operator building tools for a free world.*
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-E8751A?style=flat-square)](https://www.eklak.site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-40513B?style=flat-square)](https://www.linkedin.com/in/eklak-alam/)
-[![Email](https://img.shields.io/badge/Email_Me-609966?style=flat-square)](mailto:eklakalam420@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=F3BC07)](https://www.eklak.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F3BC07)](https://www.linkedin.com/in/eklak-alam/)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=F3BC07)](mailto:eklakalam420@gmail.com)
 
 <br>
 </div>
 
-## ⚙️ Engineering Philosophy
-
-> **I don't just write code. I architect scalable ecosystems.** > From the database schema to the final pixel on the screen, every decision is made with scale, performance, and user experience in mind.
-
-<br>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 / The Interface</h3>
-      <p><b>Frontend Engineering</b><br>
-      <i>Pixel-perfect, highly kinetic interfaces.</i></p>
-      <code>React</code> <code>Next.js</code> <code>Tailwind</code> <code>TypeScript</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 / The Engine</h3>
-      <p><b>System Architecture</b><br>
-      <i>Resilient, high-throughput microservices.</i></p>
-      <code>Node.js</code> <code>Spring Boot</code> <code>Java</code> <code>PostgreSQL</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <br>
-      <h3>03 / The Infrastructure</h3>
-      <p><b>DevOps & Cloud</b><br>
-      <i>Automated pipelines and robust architecture.</i></p>
-      <code>AWS</code> <code>Docker</code> <code>Kubernetes</code> <code>Terraform</code>
-    </td>
-    <td width="50%" valign="top">
-      <br>
-      <h3>04 / The Intelligence</h3>
-      <p><b>AI & LLM Integration</b><br>
-      <i>Intelligent agents and RAG architectures.</i></p>
-      <code>Python</code> <code>FastAPI</code> <code>LangChain</code> <code>Vector DBs</code>
-    </td>
-  </tr>
-</table>
+> **I don't just write code. I architect scalable ecosystems.**
+> Operating from the database schema to the final pixel, engineering for scale, high concurrency, and uncompromised performance.
 
 <br>
 
-## 🚀 Selected Works
+### // ENGINEERING DOMAINS
 
-| Project | Domain | Description |
+| 01 / THE INTERFACE | 02 / THE ENGINE |
+| :--- | :--- |
+| **Frontend Engineering**<br>Pixel-perfect, kinetic interfaces.<br>`React` `Next.js` `TypeScript` | **System Architecture**<br>Resilient, high-throughput microservices.<br>`Node.js` `Java` `Spring Boot` `PostgreSQL` |
+
+| 03 / THE INFRASTRUCTURE | 04 / THE INTELLIGENCE |
+| :--- | :--- |
+| **DevOps & Cloud**<br>Automated pipelines and robust architecture.<br>`AWS` `Kubernetes` `Docker` `ArgoCD` | **AI & LLM Integration**<br>Agentic AI and RAG architectures.<br>`Python` `LangChain` `Ollama` `Vector DBs` |
+
+<br>
+
+### // SELECTED WORKS
+
+| Project | Domain | Architecture Focus |
 | :--- | :--- | :--- |
-| **Gaprio** | SaaS / AI | Enterprise AI Operating System acting as the central nervous system for modern enterprise. |
+| **Gaprio** | SaaS / AI | Enterprise AI Operating System acting as the central nervous system for modern workflows. |
+| **Greggantic** | EdTech | Shorthand Mastery Platform engineered for writing at the speed of thought. |
 | **GogalEdu** | EdTech | Secure LMS Platform scaling offline education to the cloud. |
-| **Greggantic** | EdTech | Shorthand Mastery Platform built to let you write at the speed of thought. |
 | **Balaji Portal** | GovTech | Government Certified Vocational Training System. |
 
 <br>
@@ -67,11 +43,6 @@
 ---
 
 <div align="center">
-  <h3>Ready to scale? Let's chat.</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/eklak-alam/"><b>LinkedIn</b></a> &nbsp; | &nbsp; 
-    <a href="https://github.com/Eklak-Alam"><b>GitHub</b></a> &nbsp; | &nbsp; 
-    <a href="mailto:eklakalam420@gmail.com"><b>Email</b></a>
-  </p>
-  <p><i>Base of Operations: India</i></p>
+  <p><b>Base of Operations:</b> India &nbsp; | &nbsp; <b>Status:</b> Building</p>
+  <p>Ready to scale? <a href="mailto:eklakalam420@gmail.com"><b>Initialize Contact</b></a></p>
 </div>
