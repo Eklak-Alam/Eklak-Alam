@@ -1,7 +1,7 @@
 <div align="center">
 
 # EKLAK ALAM
-**System Architect & Full-Stack Engineer**123
+**System Architect & Full-Stack Engineer**12
 
 *Independent operator building tools for a free world.*
 
