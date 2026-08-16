@@ -2,239 +2,99 @@
 
 # EKLAK ALAM
 
-### System Architect · Full-Stack Engineer · AI Engineer
+### System Architect & Full-Stack Engineer
 
-**I design and build software systems from first principles.**
-
-[Portfolio](https://www.eklak.site/) · [LinkedIn](https://www.linkedin.com/in/eklak-alam/) · [Email](mailto:eklakalam420@gmail.com)
+**Full Stack • DevOps • Cloud • AI**
 
 <br>
 
-`SYSTEMS` · `WEB` · `CLOUD` · `AI` · `ARCHITECTURE`
+*Building on localhost, deploying to the world.*
+
+<br>
+
+[**Portfolio ↗**](https://www.eklak.site/)   ·  
+[**LinkedIn ↗**](https://www.linkedin.com/in/eklak-alam/)   ·  
+[**Email ↗**](mailto:eklakalam420@gmail.com)
 
 </div>
 
 ---
 
-## `01 / ABOUT`
+## I don't just write code.
 
-I'm an independent engineer focused on building **scalable products, distributed systems, and intelligent software**.
+I **architect scalable ecosystems.**
 
-I work across the entire stack — from database design and backend architecture to infrastructure, AI systems, and the final interface.
+From the database schema to the final pixel, I build end-to-end systems where **product, infrastructure, performance, and experience** work together.
 
-> **Think deeply. Build simply. Scale deliberately.**
-
-Currently building, experimenting, and turning ideas into production systems.
+`React` `Next.js` `Node.js` `Java` `Spring Boot` `Python` `AWS` `Docker` `Kubernetes` `LangChain`
 
 ---
 
-## `02 / ENGINEERING`
+## What I Build
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| **01 — Interface**                          | **02 — Engine**                                   |
+| :------------------------------------------ | :------------------------------------------------ |
+| Pixel-perfect, interactive web experiences. | Scalable backend systems & APIs.                  |
+| `React` · `Next.js` · `GSAP` · `Tailwind`   | `Node.js` · `Java` · `Spring Boot` · `PostgreSQL` |
 
-### Interface
-
-Building fast, responsive and highly interactive interfaces.
-
-`React` · `Next.js` · `TypeScript`
-`Tailwind` · `GSAP` · `Framer Motion`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Systems
-
-Designing reliable backend systems and APIs.
-
-`Node.js` · `Java` · `Spring Boot`
-`Python` · `FastAPI` · `PostgreSQL`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Infrastructure
-
-Deploying and operating production systems.
-
-`AWS` · `Docker` · `Kubernetes`
-`Nginx` · `CI/CD` · `Linux`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Intelligence
-
-Building applications around modern AI systems.
-
-`Python` · `LLMs` · `RAG`
-`LangChain` · `LangGraph` · `Vector DBs`
-
-</td>
-</tr>
-</table>
+| **03 — Infrastructure**                   | **04 — Intelligence**                             |
+| :---------------------------------------- | :------------------------------------------------ |
+| Cloud infrastructure, automation & CI/CD. | AI agents, RAG & intelligent applications.        |
+| `AWS` · `Docker` · `Kubernetes` · `CI/CD` | `Python` · `FastAPI` · `LangChain` · `Vector DBs` |
 
 ---
 
-## `03 / HOW I THINK`
+## Selected Work
 
-```text
-PRODUCT
-   │
-   ├── Interface
-   │
-   ├── Application
-   │
-   ├── Data
-   │
-   ├── Intelligence
-   │
-   └── Infrastructure
-          │
-          ▼
-       SCALE
-```
+### [Gaprio](https://www.eklak.site/projects/gaprio)
 
-I don't treat frontend, backend, AI, and infrastructure as isolated pieces.
+**SaaS / AI Automation**
 
-I think about the **entire system**:
+Enterprise AI Operating System for modern workflows.
 
-**User → Interface → Services → Data → Intelligence → Infrastructure**
+`AI` `SaaS` `RAG` `Agents` `Distributed Systems`
 
-The goal is not simply to make software work.
-
-The goal is to make it **understandable, resilient, observable and scalable.**
+[Case Study ↗](https://www.eklak.site/projects/gaprio) · [Live ↗](https://gaprio.in/)
 
 ---
 
-## `04 / SELECTED WORK`
+### [Greggantic](https://www.eklak.site/projects/greggantic)
 
-### ◉ GAPRIO
+**EdTech / Dictation**
 
-**AI · SaaS · Automation**
+Shorthand mastery platform engineered for writing at the speed of thought.
 
-An AI orchestration platform designed to connect workplace tools, understand context, and turn information into actionable workflows.
-
-**Focus:**
-`AI Agents` `RAG` `Knowledge Graphs` `Event Pipelines` `Microservices`
+[Case Study ↗](https://www.eklak.site/projects/greggantic) · [Live ↗](https://www.greggantic.com/)
 
 ---
 
-### ◉ GREGGANTIC
+### [GogalEdu](https://www.eklak.site/projects/gogaledu)
 
-**EdTech · SaaS**
+**EdTech / Video Streaming**
 
-A shorthand learning platform designed around high-speed writing, structured learning and modern education workflows.
+Secure LMS platform for delivering education at scale.
 
-**Focus:**
-`Learning Systems` `Video Infrastructure` `Web Applications`
-
----
-
-### ◉ GOGALEDU
-
-**EdTech · Infrastructure**
-
-A digital learning platform bringing offline education workflows into a scalable cloud environment.
-
-**Focus:**
-`LMS` `Cloud` `Authentication` `Content Delivery`
+[Case Study ↗](https://www.eklak.site/projects/gogaledu) · [Live ↗](https://gogaledu.com/)
 
 ---
 
-### ◉ BALAJI PORTAL
+### [Balaji Training Portal](https://www.eklak.site/projects/balaji)
 
-**GovTech · Education**
+**GovTech / Management**
 
-A government-certified vocational training platform built to digitize training and operational workflows.
+Government-certified vocational training system.
 
-**Focus:**
-`Enterprise Web` `Security` `Data Management`
-
----
-
-## `05 / CURRENTLY EXPLORING`
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  AI AGENTS                                   │
-│  DISTRIBUTED SYSTEMS                         │
-│  EVENT-DRIVEN ARCHITECTURE                   │
-│  CLOUD INFRASTRUCTURE                        │
-│  KNOWLEDGE GRAPHS                            │
-│  LLM APPLICATIONS                            │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-I'm particularly interested in the intersection of:
-
-**Software Architecture × AI × Infrastructure**
+[Case Study ↗](https://www.eklak.site/projects/balaji) · [Live ↗](https://balajitraining.in/)
 
 ---
 
-## `06 / STACK`
+## Engineering Philosophy
 
-<div align="center">
+> **Build simple.
+> Design for scale.
+> Ship with intent.**
 
-### Languages
-
-`TypeScript` · `JavaScript` · `Python` · `Java` · `SQL`
-
-### Frontend
-
-`React` · `Next.js` · `Tailwind CSS` · `GSAP`
-
-### Backend
-
-`Node.js` · `Express` · `Spring Boot` · `FastAPI`
-
-### Data
-
-`PostgreSQL` · `MySQL` · `Neo4j` · `Redis` · `Vector Databases`
-
-### AI
-
-`LangChain` · `LangGraph` · `RAG` · `LLMs` · `Embeddings` · `AI Agents`
-
-### Infrastructure
-
-`AWS` · `Docker` · `Kubernetes` · `Nginx` · `Linux` · `CI/CD`
-
-</div>
-
----
-
-## `07 / PRINCIPLES`
-
-| Principle        | Meaning                                            |
-| :--------------- | :------------------------------------------------- |
-| **Simplicity**   | Complexity should be earned, not assumed.          |
-| **Ownership**    | Understand the entire system, not just your layer. |
-| **Performance**  | Measure before optimizing.                         |
-| **Architecture** | Design for change, not just today's requirements.  |
-| **Automation**   | If it happens twice, consider automating it.       |
-| **Learning**     | Stay curious. Keep rebuilding your mental models.  |
-
----
-
-## `08 / NOW`
-
-```text
-STATUS      : BUILDING
-FOCUS       : AI + SYSTEMS + PRODUCTS
-LOCATION    : INDIA
-MODE        : DEEP WORK
-```
-
-### Building things that shouldn't exist yet.
+I care about systems that aren't just functional today, but are **easy to evolve tomorrow.**
 
 ---
 
@@ -242,11 +102,14 @@ MODE        : DEEP WORK
 
 ### Let's build something meaningful.
 
-<a href="https://www.eklak.site/">eklak.site</a>
-  ·   <a href="mailto:eklakalam420@gmail.com">[eklakalam420@gmail.com](mailto:eklakalam420@gmail.com)</a>
+[**eklak.site ↗**](https://www.eklak.site/)
+
+<br>
+
+`India` · `Building` · `Always Learning`
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=eklaka&style=flat-square&color=F3BC07" alt="Profile views" />
+**© Eklak Alam**
 
 </div>
