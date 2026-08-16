@@ -1,267 +1,252 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111111,100:1a1a1a&text=EKLAK%20ALAM&fontColor=F3BC07&fontSize=48&fontAlignY=38&desc=SYSTEM%20ARCHITECT%20%20•%20%20FULL-STACK%20ENGINEER&descAlignY=62&descSize=16&descColor=ffffff" width="100%" />
+# EKLAK ALAM
+
+### System Architect · Full-Stack Engineer · AI Engineer
+
+**I design and build software systems from first principles.**
+
+[Portfolio](https://www.eklak.site/) · [LinkedIn](https://www.linkedin.com/in/eklak-alam/) · [Email](mailto:eklakalam420@gmail.com)
 
 <br>
 
-### Building systems, products, and infrastructure that scale.
-
-**Full-Stack Engineer · System Architect · AI Engineer · Builder**
-
-<br>
-
-<a href="https://www.eklak.site">
-<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=F3BC07" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/eklak-alam/">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=F3BC07" />
-</a>
-&nbsp;
-<a href="mailto:eklakalam420@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=F3BC07" />
-</a>
+`SYSTEMS` · `WEB` · `CLOUD` · `AI` · `ARCHITECTURE`
 
 </div>
 
-<br>
+---
+
+## `01 / ABOUT`
+
+I'm an independent engineer focused on building **scalable products, distributed systems, and intelligent software**.
+
+I work across the entire stack — from database design and backend architecture to infrastructure, AI systems, and the final interface.
+
+> **Think deeply. Build simply. Scale deliberately.**
+
+Currently building, experimenting, and turning ideas into production systems.
 
 ---
 
-## `01` — SYSTEM PROFILE
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  EKLAK ALAM                                                  │
-│  ──────────────────────────────────────────────────────────  │
-│                                                              │
-│  Role        →  System Architect / Full-Stack Engineer       │
-│  Focus       →  Distributed Systems / AI / Infrastructure    │
-│  Building    →  Products, platforms & developer systems     │
-│  Location    →  India                                       │
-│  Status      →  Building                                    │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-> **I don't just write code. I design systems.**
->
-> From database schemas and APIs to infrastructure, AI pipelines and interfaces — I enjoy understanding the entire machine and making every layer work together.
-
-<br>
-
----
-
-## `02` — WHAT I BUILD
+## `02 / ENGINEERING`
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ PRODUCT ENGINEERING
+### Interface
 
-Building complete products from architecture to production.
+Building fast, responsive and highly interactive interfaces.
 
-`React` `Next.js` `TypeScript`
-`Node.js` `Java` `Spring Boot`
-`PostgreSQL` `Prisma`
+`React` · `Next.js` · `TypeScript`
+`Tailwind` · `GSAP` · `Framer Motion`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 AI SYSTEMS
+### Systems
 
-Designing practical AI systems rather than isolated demos.
+Designing reliable backend systems and APIs.
 
-`Python` `FastAPI` `LangChain`
-`RAG` `Agents` `Embeddings`
-`Vector DB` `LLMs`
+`Node.js` · `Java` · `Spring Boot`
+`Python` · `FastAPI` · `PostgreSQL`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ☁️ INFRASTRUCTURE
+### Infrastructure
 
-Thinking beyond localhost.
+Deploying and operating production systems.
 
-`AWS` `Docker` `Kubernetes`
-`Nginx` `CI/CD` `Cloudflare`
-`Distributed Systems`
+`AWS` · `Docker` · `Kubernetes`
+`Nginx` · `CI/CD` · `Linux`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏗️ SYSTEM ARCHITECTURE
+### Intelligence
 
-Designing systems that can evolve without becoming fragile.
+Building applications around modern AI systems.
 
-`Microservices` `Event Driven`
-`Queues` `Caching` `Observability`
-`Scalable APIs`
+`Python` · `LLMs` · `RAG`
+`LangChain` · `LangGraph` · `Vector DBs`
 
 </td>
 </tr>
 </table>
 
-<br>
+---
+
+## `03 / HOW I THINK`
+
+```text
+PRODUCT
+   │
+   ├── Interface
+   │
+   ├── Application
+   │
+   ├── Data
+   │
+   ├── Intelligence
+   │
+   └── Infrastructure
+          │
+          ▼
+       SCALE
+```
+
+I don't treat frontend, backend, AI, and infrastructure as isolated pieces.
+
+I think about the **entire system**:
+
+**User → Interface → Services → Data → Intelligence → Infrastructure**
+
+The goal is not simply to make software work.
+
+The goal is to make it **understandable, resilient, observable and scalable.**
 
 ---
 
-## `03` — TECHNOLOGY STACK
+## `04 / SELECTED WORK`
+
+### ◉ GAPRIO
+
+**AI · SaaS · Automation**
+
+An AI orchestration platform designed to connect workplace tools, understand context, and turn information into actionable workflows.
+
+**Focus:**
+`AI Agents` `RAG` `Knowledge Graphs` `Event Pipelines` `Microservices`
+
+---
+
+### ◉ GREGGANTIC
+
+**EdTech · SaaS**
+
+A shorthand learning platform designed around high-speed writing, structured learning and modern education workflows.
+
+**Focus:**
+`Learning Systems` `Video Infrastructure` `Web Applications`
+
+---
+
+### ◉ GOGALEDU
+
+**EdTech · Infrastructure**
+
+A digital learning platform bringing offline education workflows into a scalable cloud environment.
+
+**Focus:**
+`LMS` `Cloud` `Authentication` `Content Delivery`
+
+---
+
+### ◉ BALAJI PORTAL
+
+**GovTech · Education**
+
+A government-certified vocational training platform built to digitize training and operational workflows.
+
+**Focus:**
+`Enterprise Web` `Security` `Data Management`
+
+---
+
+## `05 / CURRENTLY EXPLORING`
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  AI AGENTS                                   │
+│  DISTRIBUTED SYSTEMS                         │
+│  EVENT-DRIVEN ARCHITECTURE                   │
+│  CLOUD INFRASTRUCTURE                        │
+│  KNOWLEDGE GRAPHS                            │
+│  LLM APPLICATIONS                            │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+I'm particularly interested in the intersection of:
+
+**Software Architecture × AI × Infrastructure**
+
+---
+
+## `06 / STACK`
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp&theme=dark" />
+`TypeScript` · `JavaScript` · `Python` · `Java` · `SQL`
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
+`React` · `Next.js` · `Tailwind CSS` · `GSAP`
 
-### Backend & Data
+### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgres,mysql,redis,prisma&theme=dark" />
+`Node.js` · `Express` · `Spring Boot` · `FastAPI`
 
-### AI / Data
+### Data
 
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
+`PostgreSQL` · `MySQL` · `Neo4j` · `Redis` · `Vector Databases`
 
-<br>
+### AI
+
+`LangChain` · `LangGraph` · `RAG` · `LLMs` · `Embeddings` · `AI Agents`
 
 ### Infrastructure
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,cloudflare,githubactions&theme=dark" />
+`AWS` · `Docker` · `Kubernetes` · `Nginx` · `Linux` · `CI/CD`
 
 </div>
 
-<br>
+---
+
+## `07 / PRINCIPLES`
+
+| Principle        | Meaning                                            |
+| :--------------- | :------------------------------------------------- |
+| **Simplicity**   | Complexity should be earned, not assumed.          |
+| **Ownership**    | Understand the entire system, not just your layer. |
+| **Performance**  | Measure before optimizing.                         |
+| **Architecture** | Design for change, not just today's requirements.  |
+| **Automation**   | If it happens twice, consider automating it.       |
+| **Learning**     | Stay curious. Keep rebuilding your mental models.  |
 
 ---
 
-## `04` — CURRENTLY BUILDING
-
-### `GAPRIO`
-
-**AI infrastructure for modern work.**
-
-Gaprio connects the tools people already use — communication, documents, tasks and calendars — and turns fragmented workflows into actionable context.
+## `08 / NOW`
 
 ```text
-Gmail / Slack / Drive / Calendar / Tasks
-                    │
-                    ▼
-              Event Layer
-                    │
-                    ▼
-            Context Extraction
-                    │
-                    ▼
-          Knowledge Graph + RAG
-                    │
-                    ▼
-              AI Agents
-                    │
-                    ▼
-          Suggested Actions
+STATUS      : BUILDING
+FOCUS       : AI + SYSTEMS + PRODUCTS
+LOCATION    : INDIA
+MODE        : DEEP WORK
 ```
 
-**Architecture:**
-`Event Driven` · `Knowledge Graph` · `RAG` · `AI Agents` · `Microservices`
-
-<br>
+### Building things that shouldn't exist yet.
 
 ---
-
-## `05` — SELECTED SYSTEMS
-
-| System            | Domain    | What I Worked On                                                   |
-| :---------------- | :-------- | :----------------------------------------------------------------- |
-| **Gaprio**        | AI / SaaS | AI orchestration, distributed architecture & intelligent workflows |
-| **Greggantic**    | EdTech    | High-performance shorthand learning platform                       |
-| **GogalEdu**      | EdTech    | Secure LMS infrastructure & education delivery                     |
-| **Balaji Portal** | GovTech   | Vocational training & certification platform                       |
-
-<br>
-
----
-
-## `06` — ENGINEERING PHILOSOPHY
-
-```text
-01  Understand the problem.
-02  Design the system.
-03  Build the smallest useful version.
-04  Measure everything that matters.
-05  Remove unnecessary complexity.
-06  Scale only when the system needs it.
-```
-
-> **Simple systems are easy to build.
-> Good systems are easy to evolve.**
-
-<br>
-
----
-
-## `07` — GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=F3BC07&icon_color=F3BC07&text_color=ffffff" height="170" />
+### Let's build something meaningful.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=00000000&ring=F3BC07&fire=F3BC07&currStreakLabel=F3BC07&sideLabels=ffffff&dates=888888" height="170" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=00000000&color=F3BC07&line=F3BC07&point=ffffff&area=true&hide_border=true" width="95%" />
-
-</div>
-
-<br>
-
----
-
-## `08` — LET'S BUILD
-
-<div align="center">
-
-**Have a difficult system to build?**
-
-**Let's talk architecture, product or engineering.**
-
-<br>
-
-<a href="mailto:eklakalam420@gmail.com">
-<img src="https://img.shields.io/badge/INITIALIZE_CONTACT-F3BC07?style=for-the-badge&logo=gmail&logoColor=111111" />
-</a>
+<a href="https://www.eklak.site/">eklak.site</a>
+  ·   <a href="mailto:eklakalam420@gmail.com">[eklakalam420@gmail.com](mailto:eklakalam420@gmail.com)</a>
 
 <br><br>
 
-`India`  •  `Building`  •  `Always Learning`
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=F3BC07&style=flat" />
-
-</div>
-
----
-
-<div align="center">
-
-### `SYSTEM ONLINE`
-
-**Design → Build → Deploy → Iterate**
+<img src="https://komarev.com/ghpvc/?username=eklaka&style=flat-square&color=F3BC07" alt="Profile views" />
 
 </div>
