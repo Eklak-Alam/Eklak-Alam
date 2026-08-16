@@ -1,115 +1,48 @@
 <div align="center">
 
 # EKLAK ALAM
+**System Architect & Full-Stack Engineer**
 
-### System Architect & Full-Stack Engineer
+*Independent operator building tools for a free world.*
 
-**Full Stack • DevOps • Cloud • AI**
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=F3BC07)](https://www.eklak.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F3BC07)](https://www.linkedin.com/in/eklak-alam/)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=F3BC07)](mailto:eklakalam420@gmail.com)
 
 <br>
-
-*Building on localhost, deploying to the world.*
-
-<br>
-
-[**Portfolio ↗**](https://www.eklak.site/)   ·  
-[**LinkedIn ↗**](https://www.linkedin.com/in/eklak-alam/)   ·  
-[**Email ↗**](mailto:eklakalam420@gmail.com)
-
 </div>
 
----
+> **I don't just write code. I architect scalable ecosystems.**
+> Operating from the database schema to the final pixel, engineering for scale, high concurrency, and uncompromised performance.
 
-## I don't just write code.
+<br>
 
-I **architect scalable ecosystems.**
+### // ENGINEERING DOMAINS
 
-From the database schema to the final pixel, I build end-to-end systems where **product, infrastructure, performance, and experience** work together.
+| 01 / THE INTERFACE | 02 / THE ENGINE |
+| :--- | :--- |
+| **Frontend Engineering**<br>Pixel-perfect, kinetic interfaces.<br>`React` `Next.js` `TypeScript` | **System Architecture**<br>Resilient, high-throughput microservices.<br>`Node.js` `Java` `Spring Boot` `PostgreSQL` |
 
-`React` `Next.js` `Node.js` `Java` `Spring Boot` `Python` `AWS` `Docker` `Kubernetes` `LangChain`
+| 03 / THE INFRASTRUCTURE | 04 / THE INTELLIGENCE |
+| :--- | :--- |
+| **DevOps & Cloud**<br>Automated pipelines and robust architecture.<br>`AWS` `Kubernetes` `Docker` `ArgoCD` | **AI & LLM Integration**<br>Agentic AI and RAG architectures.<br>`Python` `LangChain` `Ollama` `Vector DBs` |
 
----
+<br>
 
-## What I Build
+### // SELECTED WORKS
 
-| **01 — Interface**                          | **02 — Engine**                                   |
-| :------------------------------------------ | :------------------------------------------------ |
-| Pixel-perfect, interactive web experiences. | Scalable backend systems & APIs.                  |
-| `React` · `Next.js` · `GSAP` · `Tailwind`   | `Node.js` · `Java` · `Spring Boot` · `PostgreSQL` |
+| Project | Domain | Architecture Focus |
+| :--- | :--- | :--- |
+| **Gaprio** | SaaS / AI | Enterprise AI Operating System acting as the central nervous system for modern workflows. |
+| **Greggantic** | EdTech | Shorthand Mastery Platform engineered for writing at the speed of thought. |
+| **GogalEdu** | EdTech | Secure LMS Platform scaling offline education to the cloud. |
+| **Balaji Portal** | GovTech | Government Certified Vocational Training System. |
 
-| **03 — Infrastructure**                   | **04 — Intelligence**                             |
-| :---------------------------------------- | :------------------------------------------------ |
-| Cloud infrastructure, automation & CI/CD. | AI agents, RAG & intelligent applications.        |
-| `AWS` · `Docker` · `Kubernetes` · `CI/CD` | `Python` · `FastAPI` · `LangChain` · `Vector DBs` |
-
----
-
-## Selected Work
-
-### [Gaprio](https://www.eklak.site/projects/gaprio)
-
-**SaaS / AI Automation**
-
-Enterprise AI Operating System for modern workflows.
-
-`AI` `SaaS` `RAG` `Agents` `Distributed Systems`
-
-[Case Study ↗](https://www.eklak.site/projects/gaprio) · [Live ↗](https://gaprio.in/)
-
----
-
-### [Greggantic](https://www.eklak.site/projects/greggantic)
-
-**EdTech / Dictation**
-
-Shorthand mastery platform engineered for writing at the speed of thought.
-
-[Case Study ↗](https://www.eklak.site/projects/greggantic) · [Live ↗](https://www.greggantic.com/)
-
----
-
-### [GogalEdu](https://www.eklak.site/projects/gogaledu)
-
-**EdTech / Video Streaming**
-
-Secure LMS platform for delivering education at scale.
-
-[Case Study ↗](https://www.eklak.site/projects/gogaledu) · [Live ↗](https://gogaledu.com/)
-
----
-
-### [Balaji Training Portal](https://www.eklak.site/projects/balaji)
-
-**GovTech / Management**
-
-Government-certified vocational training system.
-
-[Case Study ↗](https://www.eklak.site/projects/balaji) · [Live ↗](https://balajitraining.in/)
-
----
-
-## Engineering Philosophy
-
-> **Build simple.
-> Design for scale.
-> Ship with intent.**
-
-I care about systems that aren't just functional today, but are **easy to evolve tomorrow.**
+<br>
 
 ---
 
 <div align="center">
-
-### Let's build something meaningful.
-
-[**eklak.site ↗**](https://www.eklak.site/)
-
-<br>
-
-`India` · `Building` · `Always Learning`
-
-<br><br>
-
-**© Eklak Alam**
-
+  <p><b>Base of Operations:</b> India &nbsp; | &nbsp; <b>Status:</b> Building</p>
+  <p>Ready to scale? <a href="mailto:eklakalam420@gmail.com"><b>Initialize Contact</b></a></p>
 </div>
