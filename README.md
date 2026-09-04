@@ -2,7 +2,7 @@
 
 # EKLAK ALAM
 **System Architect & Full-Stack Engineer**
-1
+
 *Independent operator building tools for a free world.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=F3BC07)](https://www.eklak.site/)
