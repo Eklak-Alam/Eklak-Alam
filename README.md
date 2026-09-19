@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=F3BC07&center=true&vCenter=true&width=800&height=100&lines=Hey+there!+I'm+Eklak+Alam.;System+Architect+%26+Full-Stack+Engineer.;I+conceptualize%2C+build%2C+deploy%2C+and+infuse+intelligence.;Fluent+in+TypeScript%2C+React%2C+Next.js%2C+Java%2C+Spring+Boot+%26+AWS.;Creator+of+Gaprio%2C+Greggantic%2C+GogalEdu+%26+Balaji+Portal." alt="Typing Animation" />
-</p>
+Haha
