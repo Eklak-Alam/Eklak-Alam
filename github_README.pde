@@ -3,7 +3,7 @@ PFont font;
 
 void setup() {
   size(1920, 1080);
-  font = createFont("HelveticaNeue-48.vlw", 48);
+  font = createFont("SansSerif", 48);
   textFont(font);
   frameRate(30);
   textAlign(CENTER);
@@ -11,20 +11,29 @@ void setup() {
   background(255);
   fill(0);
 
-  strs[0][0] = "Hey there!";
-  strs[0][1] = "My name is Mason Slover.";
+  // Slide 1: Introduction
+  strs[0][0] = "Hey there! I'm Eklak Alam.";
+  strs[0][1] = "System Architect & Full-Stack Engineer.";
 
-  strs[1][0] = "I'm a Mathematics & Computer Science Major";
-  strs[1][1] = "at Fordham University at Lincoln Center in New York City.";
+  // Slide 2: Core Capability
+  strs[1][0] = "I conceptualize, build, deploy, and infuse intelligence.";
+  strs[1][1] = "Transforming raw ideas into scalable, high-performance software.";
 
-  strs[2][0] = "I've been teaching myself how to code for 6 years!";
-  strs[2][1] = "I am fluent in Java, C++, Python, Swift, JavaScript, and HTML & CSS.";
+  // Slide 3: Tech Stack
+  strs[2][0] = "Fluent across modern system stacks & cloud architecture.";
+  strs[2][1] = "TypeScript, React, Next.js, Java, Spring Boot, Python & AWS.";
 
-  strs[3][0] = "I've created apps, websites, and art using what I've learned.";
-  strs[3][1] = "You can even find the Processing source code for this below!";
+  // Slide 4: AI & Infrastructure
+  strs[3][0] = "Architecting microservices & agentic AI platforms.";
+  strs[3][1] = "Engineered from the database schema to the final pixel.";
 
-  strs[5][0] = "Feel free to reach out to say hi!";
-  strs[5][1] = "phone: (512) 739-2405 | email: masonslover@gmail.com";
+  // Slide 5: Work & Impact
+  strs[4][0] = "Creator of Gaprio, Greggantic, GogalEdu & Balaji Portal.";
+  strs[4][1] = "Building systems engineered for uncompromised performance.";
+
+  // Slide 6: Contact
+  strs[5][0] = "Ready to build something extraordinary together?";
+  strs[5][1] = "Portfolio: eklak.site | Email: eklakalam420@gmail.com";
 }
 
 int i = 0;
@@ -32,8 +41,7 @@ boolean delete = false;
 int s = 0;
 int offset = 50;
 int mainFontSize = 60;
-int secondaryFontSize = 40;
-
+int secondaryFontSize = 36;
 
 void draw() {
   background(255);
@@ -57,14 +65,12 @@ void draw() {
       i++;
     } else {
       if (!delete) {
-        delay(1500);
+        delay(1500); // Pause on fully typed slide
       }
       delete = true;
     }
 
-
     if (delete) {
-
       if (i > 0) {
         if (i < strs[s][0].length()) {
           textSize(mainFontSize);
@@ -83,10 +89,10 @@ void draw() {
         i--;
       } else {
         delete = false;
-        s++;
+        s++; // Move to next slide
       }
     }
-    //print(i + " ");
-    //s++;
+  } else {
+    s = 0; // Loop back to start when finished
   }
 }
